@@ -1,3 +1,0 @@
-línea 1
-Línea 2
- creado con promesas.
